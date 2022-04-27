@@ -73,7 +73,7 @@ public class Animal {
 
     // METODOS // 
 
-    public String Movimiento(){
+    public String movimiento(){
         return "desplazarse";
     }
 
