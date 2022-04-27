@@ -33,7 +33,7 @@ public class Zoologico {
         this.ubicacion = ubicacion;
     }
 
-    public ArrayList<Zona> getZonas() {
+    public ArrayList<Zona> getZona() {
         return zonas;
     }
 
@@ -43,7 +43,7 @@ public class Zoologico {
 
     // METODOS //
 
-    public void agregarZonas(Zona zona){
+    public void agregarZona(Zona zona){
         zonas.add(zona);
     }
     
