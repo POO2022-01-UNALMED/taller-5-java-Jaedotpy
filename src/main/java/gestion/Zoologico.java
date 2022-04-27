@@ -43,7 +43,7 @@ public class Zoologico {
 
     // METODOS //
 
-    public void agregarZona(Zona zona){
+    public void agregarZonas(Zona zona){
         zonas.add(zona);
     }
     
