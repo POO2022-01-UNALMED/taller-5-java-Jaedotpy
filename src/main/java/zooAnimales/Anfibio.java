@@ -50,7 +50,7 @@ public class Anfibio extends Animal
 
     public static Anfibio crearSalamandra(String nombre, int edad, String genero) {
         Anfibio newSalamander = new Anfibio(nombre, edad, "selva", genero, "negro", true);
-        ranas++;
+        salamandras++;
         return newSalamander;
     }  
 
